@@ -121,31 +121,31 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Overall%20Report.gif)
+![Overall Report.gif](https://github.com/sumitjaat-up13/Business-Insights-360/blob/main/icons%20gif%20business%20insights%20360/home%20page.gif)
 
 ## Finance View
 
-![Finace.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Finance%20view.gif)
+![Finace.gif](https://github.com/sumitjaat-up13/Business-Insights-360/blob/main/icons%20gif%20business%20insights%20360/finance%20view.gif)
 
 ## Sales View
 
-![Sales.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Sales%20View.gif)
+![Sales.gif](https://github.com/sumitjaat-up13/Business-Insights-360/blob/main/icons%20gif%20business%20insights%20360/sales%20view.gif)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Marketing%20view.gif)
+![Marketing.gif](https://github.com/sumitjaat-up13/Business-Insights-360/blob/main/icons%20gif%20business%20insights%20360/marketing%20view.gif)
 
 ## Supply chain View
 
-![Supply chain View.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Supply%20chain%20View.gif)
+![Supply chain View.gif](https://github.com/sumitjaat-up13/Business-Insights-360/blob/main/icons%20gif%20business%20insights%20360/supply%20chain%20view.gif)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Executive%20view.gif)
+![Executive.gif](https://github.com/sumitjaat-up13/Business-Insights-360/blob/main/icons%20gif%20business%20insights%20360/executive%20view.gif)
 
 ## Stakeholder Request
 
-![Stakeholder Request](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Stakeholder%20Request.gif)
+![Stakeholder Request](https://github.com/sumitjaat-up13/Business-Insights-360/blob/main/icons%20gif%20business%20insights%20360/executive%20view.gif)
 
 you can find the full report file here : [Report](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Business%20Insights%20360.pbix)
 
